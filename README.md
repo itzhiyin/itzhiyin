@@ -1,6 +1,6 @@
 ## 👋 Hello! I'm 宁子(itzhiyin)
 
-In high school, Front End Engineer,Graphic designer,
+Cloud computing engineer, occasionally writes a program ..
 
 Welcome to my blog. [Let's go!](https://blog.itzhiyin.com/)
 
